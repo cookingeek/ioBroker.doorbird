@@ -1,6 +1,6 @@
 {
   "name": "iobroker.doorbird",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "ioBroker doorbird Adapter",
   "author": {
     "name": "BuZZy1337",
@@ -18,6 +18,10 @@
     {
       "name": "Matthias Kleine",
       "email": "info@haus-automatisierung.com"
+    },
+    {
+      "name": "Cookingeek",
+      "email": "info@cookingeek.de"
     }
   ],
   "engines": {
